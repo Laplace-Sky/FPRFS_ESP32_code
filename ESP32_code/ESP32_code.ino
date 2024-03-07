@@ -14,9 +14,6 @@
 
 HardwareSerial uart2(2);
 
-//const char* ssid = "TPG08CB";
-//const char* password = "meimimaa";
-
 const char* ssid = // enter the ssid
 const char* password =  // enter the password
 int board_num = 1;
